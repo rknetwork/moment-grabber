@@ -133,6 +133,7 @@
 
 .mg-time a {
 	font-size: 0.75em;
+	cursor: pointer;
 }
 
 .mg-ampm {
